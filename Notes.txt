@@ -1,0 +1,8 @@
+*HTML fORMS:
+       input types : checkbox, radio, text,  number, submit.
+
+  Placeholder acts like a lite colour in input section ,what the input wants.     
+  Html supports mp3 ogg and wave in audio tag and it has atrributes like autoplay muted and controls.
+  mp4 webm ogg also supports in video tag with same attributes like video tag.
+
+Task: Railway registration fORMS
